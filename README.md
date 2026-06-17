@@ -8,10 +8,10 @@ EchoWave is a **WhatsApp-like wireless messaging application** developed using *
 ---
 
 ## Team Members
-230175U   Eranga W.A.O.
-230566U Samarasekara S.M.R.R.
-230195F   Gamage S.K.
-230636K  Tharushika G.K.E.
+- 230175U   Eranga W.A.O.
+- 230566U Samarasekara S.M.R.R.
+- 230195F   Gamage S.K.
+- 230636K  Tharushika G.K.E.
 
 ## 🚀 Features
 
